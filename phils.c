@@ -1,8 +1,3 @@
-// Name: BRILANNE BAYS 
-// Class: 345 - Operating Systems
-// Instructor: Zakaria El-Awadi
-
-
 // inclusions
 #include <stdio.h>
 #include <stdlib.h>
